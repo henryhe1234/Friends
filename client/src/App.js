@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
-import PageRender from "./PageRender"; //fix
+import PageRender from "./PageRender"; // make!
 function App() {
   return (
     <Router>
